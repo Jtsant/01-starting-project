@@ -1,2 +1,3 @@
 # Styling-React-Components-New-Project  
-## Day 21
+## Day 21  
+After taking as granted a new project i will be focusing now on how to set dynamic inline styles to my components. This method although is not advised but i will be testing it so that i get to know how it is done. In my new file CourseInput.js i will add styling on the label and input so that when i make an empty entry the background color of my text and label changes so that to give the user information that it is empty. My file then transforms like this ![Screenshot_1](https://user-images.githubusercontent.com/90603989/163435104-5a2215cc-c539-428d-a632-6b74e97c217c.png)
