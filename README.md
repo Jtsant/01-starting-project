@@ -7,5 +7,5 @@ The 1st approach in order to have styling in components seperately and not in cs
 I can work the same way now inside the divs and change their style dynamically using props. Inside my CourseInput.js file now i will copy paste the code from CourseInput.css file and use the syntax i have learned my file looks like this ![Screenshot_3](https://user-images.githubusercontent.com/90603989/163677550-4d18481c-31b8-4c53-8bea-02009d3bc206.png)
 ![Screenshot_4](https://user-images.githubusercontent.com/90603989/163677553-a46e8bf2-e9fb-4a4a-8d7d-fe261bc74271.png)  
 ## Day 23  
-In order now to have my app run at many devices whether its pc, mobile or any screen i will use media queries like that in the Button.js file
+In order now to have my app run at many devices whether its pc, mobile or any screen i will use media queries like that in the Button.js file. Using percentages i can cover the full expanse of screens so that my app works in any other screen size ![Screenshot_1](https://user-images.githubusercontent.com/90603989/163826719-ae83ac10-1b81-4be0-8a98-1066e8ff3950.png)
 
